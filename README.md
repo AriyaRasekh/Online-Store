@@ -1,5 +1,7 @@
 # Online-Store
 
+The UML diagram includes: use case diagram, domain model, collaboration and activity diagram.
+
 # Scenario:
 
 A retail store wants to build an online system for their customer to place orders online and for pickup later
